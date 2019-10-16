@@ -1,0 +1,6 @@
+C:\Users\Usuario\UNEDL2019B\Console\Collections\bin\Debug\Collections.exe.config
+C:\Users\Usuario\UNEDL2019B\Console\Collections\bin\Debug\Collections.exe
+C:\Users\Usuario\UNEDL2019B\Console\Collections\bin\Debug\Collections.pdb
+C:\Users\Usuario\UNEDL2019B\Console\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Usuario\UNEDL2019B\Console\Collections\obj\Debug\Collections.exe
+C:\Users\Usuario\UNEDL2019B\Console\Collections\obj\Debug\Collections.pdb
