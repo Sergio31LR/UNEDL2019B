@@ -1,0 +1,6 @@
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\bin\Debug\ComparaLosTrillizos.exe.config
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\bin\Debug\ComparaLosTrillizos.exe
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\bin\Debug\ComparaLosTrillizos.pdb
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\obj\Debug\ComparaLosTrillizos.csprojAssemblyReference.cache
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\obj\Debug\ComparaLosTrillizos.exe
+C:\Users\Usuario\UNEDL2019B\Console\ComparaLosTrillizos\obj\Debug\ComparaLosTrillizos.pdb
