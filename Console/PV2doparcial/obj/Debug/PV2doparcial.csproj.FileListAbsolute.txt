@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\PV2doparcial\bin\Debug\PV2doparcial.exe.config
+C:\Users\Usuario\source\repos\PV2doparcial\bin\Debug\PV2doparcial.exe
+C:\Users\Usuario\source\repos\PV2doparcial\bin\Debug\PV2doparcial.pdb
+C:\Users\Usuario\source\repos\PV2doparcial\obj\Debug\PV2doparcial.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PV2doparcial\obj\Debug\PV2doparcial.exe
+C:\Users\Usuario\source\repos\PV2doparcial\obj\Debug\PV2doparcial.pdb
