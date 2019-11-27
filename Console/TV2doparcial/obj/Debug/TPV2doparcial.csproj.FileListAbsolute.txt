@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\TV2doparcial\bin\Debug\TV2doparcial.exe.config
+C:\Users\Usuario\source\repos\TV2doparcial\bin\Debug\TV2doparcial.exe
+C:\Users\Usuario\source\repos\TV2doparcial\bin\Debug\TV2doparcial.pdb
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TPV2doparcial.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TV2doparcial.Form1.resources
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TV2doparcial.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TPV2doparcial.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TV2doparcial.exe
+C:\Users\Usuario\source\repos\TV2doparcial\obj\Debug\TV2doparcial.pdb
