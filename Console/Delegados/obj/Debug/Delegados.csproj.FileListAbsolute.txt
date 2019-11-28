@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Delegados\obj\Debug\Delegados.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Delegados\bin\Debug\Delegados.exe.config
+C:\Users\Usuario\source\repos\Delegados\bin\Debug\Delegados.exe
+C:\Users\Usuario\source\repos\Delegados\bin\Debug\Delegados.pdb
+C:\Users\Usuario\source\repos\Delegados\obj\Debug\Delegados.exe
+C:\Users\Usuario\source\repos\Delegados\obj\Debug\Delegados.pdb
