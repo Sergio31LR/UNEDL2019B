@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\ExamenParcial3\bin\Debug\ExamenParcial3.exe.config
+C:\Users\Usuario\source\repos\ExamenParcial3\bin\Debug\ExamenParcial3.exe
+C:\Users\Usuario\source\repos\ExamenParcial3\bin\Debug\ExamenParcial3.pdb
+C:\Users\Usuario\source\repos\ExamenParcial3\obj\Debug\ExamenParcial3.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExamenParcial3\obj\Debug\ExamenParcial3.exe
+C:\Users\Usuario\source\repos\ExamenParcial3\obj\Debug\ExamenParcial3.pdb
